@@ -22,7 +22,7 @@ O projeto foi dividido em três páginas principais para garantir uma navegaçã
 ### 1. Home
 Uma tela de entrada amigável com o título "Report Financeiro". Ela conta com um botão interativo de "Explorar análise", que direciona o usuário diretamente para as visões gerenciais, oferecendo uma experiência de navegação profissional.
 
-**![Página Home](./imagens/Home.PNG)**
+**![Página Home](./Imagens/Home.PNG)**
 
 ### 2. Principal (Sales Report)
 Esta página atua como o painel gerencial de alto nível, trazendo um panorama geral das vendas:
@@ -32,7 +32,7 @@ Esta página atua como o painel gerencial de alto nível, trazendo um panorama g
 * **Performance de Produtos:** Um gráfico de barras horizontais destacando a performance individual, evidenciando os TOP produtos (Paseo, VTT, Velo).
 * **Visão Geográfica:** Um visual de Treemap identificando as representações dos países nas vendas (United States, France, Germany, Canada, Mexico).
 
-**![Página Principal](./imagens/Principal.PNG)**
+**![Página Principal](./Imagens/Principal.PNG)**
 
 ### 3. Detalhes (Report de Lucro Detalhado)
 Página voltada para o aprofundamento analítico e segmentação avançada:
@@ -41,4 +41,4 @@ Página voltada para o aprofundamento analítico e segmentação avançada:
 * **Compartimentação de Dados:** Um Histograma focado nas Unidades Vendidas, permitindo entender a distribuição e a compartimentação do volume de vendas.
 * **Ranking de Produtos:** Um gráfico de barras adicional comparando as vendas totais por produto.
 
-**![Página Detalhes](./imagens/Detalhes.PNG)**
+**![Página Detalhes](./Imagens/Detalhes.PNG)**
