@@ -22,7 +22,7 @@ O projeto foi expandido e estruturado em seis páginas interativas para garantir
 ### 1. Home Page
 Uma tela de entrada amigável com o título "Report Financeiro". Ela conta com um botão interativo de "Explorar análise", que direciona o usuário diretamente para as visões gerenciais, oferecendo uma experiência de navegação profissional.
 
-[!](./Imagens/HomePage.jpg)
+[!](./Imagens/HomePage.PNG)
 
 ### 2. Principal (Sales Report)
 Esta página atua como o painel gerencial de alto nível, trazendo um panorama geral das vendas com alternância dinâmica de visuais:
